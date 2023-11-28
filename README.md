@@ -14,11 +14,7 @@ A simple and intuitive To-Do List web application.
 - CSS
 - JavaScript
 
-## Getting Started
 
-### Installation
-
-
-
+##Contributor
 
 -code contributed by GOKUL R
